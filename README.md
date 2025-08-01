@@ -1,4 +1,4 @@
-![Header](./Mouse.jpg "Header")
+![Header](./Header.png "Header")
 
 ## Hi, welcome to Jingpu's github 👋
 
